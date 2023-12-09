@@ -10,15 +10,6 @@ I am currently a high school student with an interest in Programming. I have exp
  <a href="https://www.instagram.com/been.wilki/">
     <img alt="Instagram page" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/Pinko406">
-    <img alt="Twitter Profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.twitch.tv/pinky_406">
-    <img alt="Twitch Stream" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
-<a href="https://www.youtube.com/channel/UCq0B3Wzd0JM-x1pEdgHMxAw">
-    <img alt="Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
  <a href="https://steamcommunity.com/id/Pinky-406/">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
