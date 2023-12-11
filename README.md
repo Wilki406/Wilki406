@@ -2,7 +2,7 @@
 
  # Hi there, I'm Benjamin 👋 
  
-I am currently a high school student with an interest in Programming. I have experience coding in Python, C++, HTML, CSS and C. As well as prototyping hardware solutions using Arduino and Expressif Microcontrollers.
+I am currently a high school student with an interest in Programming. I have experience programming in Python, C++, HTML, CSS and C. As well as prototyping hardware solutions using Arduino and Expressif Microcontrollers.
  
   ### You can find me on:
 
