@@ -3,22 +3,7 @@
  # Hi there, I'm Benjamin 👋 
  
 I am currently a high school student with an interest in Programming. I have experience programming in Python, C++, HTML, CSS and C. As well as prototyping hardware solutions using Arduino and Expressif Microcontrollers.
- 
-  ### You can find me on:
 
-<div align="center">
- <a href="https://www.instagram.com/been.wilki/">
-    <img alt="Instagram page" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
- <a href="https://steamcommunity.com/id/Pinky-406/">
-    <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
- <a href="https://open.spotify.com/user/33lpexu5cvr73yjym8k31l41f">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-</div>
-  <br>
-</div>
 
 ---
 
