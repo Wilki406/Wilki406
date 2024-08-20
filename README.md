@@ -16,7 +16,12 @@ I am currently a high school student with an interest in Programming. I have exp
 A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates.
 
 #### ⚙️ Laser Turret
-The Laser Turret is an integrated system that uses AI-driven camera analysis to detect specific entities, calculates their position, and employs motors to direct a laser for area denial.
+An integrated system that uses AI-driven camera analysis to detect specific entities, calculates their position, and employs motors to direct a laser for area denial.
+
+
+#### ⏱️ LED Reaction Game
+The 
+
 
 ---
 
