@@ -35,6 +35,7 @@ The
 <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 
 ### 🔧 Tools
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
 
 
 </div>
