@@ -12,10 +12,10 @@ I am currently a high school student with an interest and passion in Programming
  
 ### Pinned Projects Summary
 
-#### 📋 InvenTrack
+#### 📋 InvenTrack (WIP)
 A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates.
 
-#### ⚙️ Laser Turret
+#### ⚙️ Laser Turret (WIP)
 An integrated system that uses AI-driven camera analysis to detect specific entities, calculates their position, and employs motors to direct a laser for area denial.
 
 
