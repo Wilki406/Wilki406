@@ -22,6 +22,9 @@ An integrated system that uses AI-driven camera analysis to detect specific enti
 #### ⏱️ LED Reaction Game
 A physical game that features a square grid of LED strips, where players must hit a button while an LED chaser moves within the grid, with gameplay becoming progressively more challenging and opportunities for special levels or extra lives through randomizers.
 
+#### 👾 Alien Invasion Game
+A digital alien invasion game, one of my earliest projects, features scaling progression with increasingly challenging levels, tracks high score and current score and level during play sessions, and includes music and menu screens.
+
 ---
 
 ### 👩‍💻 Languages
