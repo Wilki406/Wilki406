@@ -15,7 +15,7 @@ I am currently a high school student with an interest and passion in Programming
 #### 📋 InvenTrack
 A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates as well as utilize full AES encryption.
 
-#### ⚙️ Laser Turret (WIP)
+#### ⚙️ Laser Turret
 An integrated system that uses AI-driven camera analysis to detect specific entities, calculates their position, and employs motors to direct a laser for area denial.
 
 
