@@ -13,10 +13,10 @@ I am currently a high school student with an interest and passion in Programming
 ### Pinned Projects Summary
 
 #### 📋 InvenTrack
-A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates as well as utilize full AES encryption.
+A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates as well as utilize full AES encryption for protecting user data.
 
 #### ⚙️ Laser Turret
-An integrated system that uses AI-driven camera analysis to detect specific entities, and employs motors to direct a laser for area denial.
+An integrated system that uses AI-driven camera analysis to detect specific entities, and employ motors to direct a laser for area denial capabilities to effectively and autonomously deter animals from sensitive locations without causing harm.
 
 
 #### ⏱️ LED Reaction Game
