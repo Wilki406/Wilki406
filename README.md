@@ -18,6 +18,8 @@ A Program to manage inventory, record sales, generate statistics, and track item
 #### ⚙️ Laser Turret
 An integrated system that uses AI-driven camera analysis to detect specific entities, and employ motors to direct a laser for area denial capabilities to effectively and autonomously deter animals from sensitive locations without causing harm.
 
+#### 🏉 Tippa (WIP)
+A Sports Social and fantasy betting program, utilizing a server database, APIs, Encryption and .
 
 #### ⏱️ LED Reaction Game
 A physical game that features a square grid of LED strips, where players must hit a button while an LED chaser moves within the grid, with gameplay becoming progressively more challenging and opportunities for special levels or extra lives through randomizers.
