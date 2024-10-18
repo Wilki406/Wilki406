@@ -16,7 +16,9 @@ I am currently a high school student with an interest and passion in Programming
 A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates as well as utilize full AES encryption for protecting user data.
 
 #### ⚙️ Laser Turret (Award Winning)
-An integrated system that uses AI-driven camera analysis to detect specific entities, and employ motors to direct a laser for area denial capabilities to effectively and autonomously deter animals from sensitive locations without causing harm. This project one CREST EDUCATION's 2024 Best Systems Engineering Award on 18/10/24.
+An integrated system that uses AI-driven camera analysis to detect specific entities, and employ motors to direct a laser for area denial capabilities to effectively and autonomously deter animals from sensitive locations without causing harm. 
+
+This project won CREST EDUCATION's 2024 Best Systems Engineering Award on 18/10/24.
 
 #### 🏉 Tippa (WIP)
 A Sports Social and fantasy betting program, utilizing a server database, APIs, Encryption and more.
