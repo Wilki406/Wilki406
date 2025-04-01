@@ -4,7 +4,7 @@
 
 <div align="left">
  
-I am currently a high school student with an interest and passion in Programming. I have experience programming in Python, C++, HTML, CSS and C. As well as prototyping hardware solutions using Arduino, Expressif Microcontrollers and Raspberry Pi's.
+I am currently a University student with an interest and passion in Programming. I have experience programming in Python, C++, HTML, CSS and C. As well as prototyping hardware solutions using Arduino, Expressif Microcontrollers and Raspberry Pi's.
 
 ---
 
