@@ -13,7 +13,7 @@ I am currently a University student with an interest and passion in Programming.
 ### Pinned Projects Summary
 
 #### 📋 InvenTrack
-A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies using real-time exchange rates as well as utilize full AES encryption for protecting user data.
+A Program to manage inventory, record sales, generate statistics, and track item prices across different currencies as well as utilize full AES encryption for protecting user data.
 
 #### ⚙️ Laser Turret (Award Winning)
 An integrated system that uses AI-driven camera analysis to detect specific entities, and employ motors to direct a laser for area denial capabilities to effectively and autonomously deter animals from sensitive locations without causing harm. 
@@ -24,7 +24,7 @@ This project won CREST EDUCATION's 2024 Best Systems Engineering Award on 18/10/
 A Sports Social and fantasy betting program, utilizing a server database, APIs, Encryption and more.
 
 #### ⏱️ LED Reaction Game
-A physical game that features a square grid of LED strips, where players must hit a button while an LED chaser moves within the grid, with gameplay becoming progressively more challenging and opportunities for special levels or extra lives through randomizers.
+A physical game that features a square grid of LED strips, where players must hit a button while an LED chaser moves within the grid, with gameplay becoming progressively more challenging and opportunities for special levels or extra lives through randomizers, Uses Arduino.
 
 #### 👾 Alien Invasion Game
 A digital alien invasion game, one of my earliest projects, features scaling progression with increasingly challenging levels, tracks high score and current score and level during play sessions, and includes music and menu screens.
